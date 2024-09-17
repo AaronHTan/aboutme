@@ -9,7 +9,7 @@ const Navbar = () => {
                 <Link to="/"> About Me</Link>
             </li>
             <li style={styles.Label}>
-                <Link to="/projects">Some Other Projects</Link>
+                <Link to="/projects">Some Other Projects!</Link>
             </li>
             <li style={styles.Label}>
                 <Link to="/contact">Contact Me</Link>
